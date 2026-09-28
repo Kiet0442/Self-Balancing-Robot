@@ -197,7 +197,11 @@ Kd → Derivative gain
 
 ## Author
 
-**Kiet0442**
+Name : Hoang Tuan Kiet
+University: Vietnam - Korea University of Information and Communication Technology
+Major: Embedded Systems Engineering
+
+
 
 This project was developed to explore **embedded systems, robotics, feedback control, PID algorithms, IMU sensors, and stepper motor control**.
 
